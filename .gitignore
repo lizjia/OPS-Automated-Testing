@@ -1,0 +1,10 @@
+__pycache__
+venv
+Login UAT Test Results
+Chrome Tests/LoginTests/logins.txt
+Chrome Tests/.idea/Chrome Tests.iml
+Chrome Tests/.idea/Chrome Tests.iml
+Chrome Tests/.idea/misc.xml
+logins.txt
+Chrome Tests/LoginTests/logins_short.txt
+*.png
